@@ -1,0 +1,25 @@
+-------------------------------------------------------------------------------
+ACTIVOS
+ACTIVOS CIRCULANTES
+cuenta [valor=2345.0, tipo=activo, Nombre=banco]
+
+El total de Activos Circulantes es:2345.0
+ACTIVOS FIJOS
+cuenta [valor=2400.0, tipo=activo, Nombre=edificio]
+
+El total de Activos FIjos es:0.0
+ACTIVOS DIFERIDOS
+
+El total de Activos Diferidos es:0.0
+El total de los ACTIVOS es:4690.0
+-------------------------------------------------------------------------------
+PASIVOS
+PASIVOS CIRCULANTES
+cuenta [valor=567.0, tipo=pasivo, Nombre=doc x pagar]
+
+El total de pasivos Circulantes es:567.0
+PASIVOS NO FIJOS
+
+El total de pasivos no circulantes es:0.0
+El total de los PASIVOS es:567.0
+El capital contable es :4123.0
